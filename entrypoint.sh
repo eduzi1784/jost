@@ -1,6 +1,6 @@
 #!/bin/sh
 
-UUID=719cf1a5-954b-4b19-b942-5be1e98ab06f
+UUID=beee694b-e2f5-4060-befb-23590590d0de
 WSPATH=/d720987c-9e70-43ad-a146-5ed5aea73fc6
 PORT=80
 
